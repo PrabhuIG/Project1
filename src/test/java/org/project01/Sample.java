@@ -10,6 +10,11 @@ public class Sample {
 		
 	}
 	
+	@Test
+	private void test2() {
+		System.out.println("Test2");
+	}
+	
 	
 
 }
